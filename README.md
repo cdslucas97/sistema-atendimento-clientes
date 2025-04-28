@@ -108,7 +108,7 @@ ID: REQ009 | Descrição: Restauração de dados | Data/Hora: 2024-08-20 14:30
 
 O vídeo com a explicação do projeto está disponível em:
 
-**[Assista no YouTube](https://youtube.com/em breve)**
+**[Link do Vídeo para explicação no YouTube](https://www.youtube.com/watch?v=APkExZv-GuQ)**
 
 ---
 
